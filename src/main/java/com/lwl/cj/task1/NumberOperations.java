@@ -29,7 +29,7 @@ public class NumberOperations {
 		return sum;
 	}
 	
-	// Return number of primes in range
+	// Return number of primes in range  2 10 => 2 3 5 7 => 4
 	public int primeNumbersInRange(int lb,int ub) {
 		
 		return 0;
